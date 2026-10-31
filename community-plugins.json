@@ -17804,7 +17804,7 @@
     "id": "workout-planner",
     "name": "Workout Planner",
     "author": "spatariurares",
-    "description": "Visualize workout data with interactive charts and advanced search capabilities.",
+    "description": "Log every set from your phone, right at the gym, and see your progress in your notes: workout tables, charts, rest timers and a dashboard with PRs, trends and a muscle heat map. Mobile-first, kg or lb per set, all in one CSV file.",
     "repo": "spatariurares/obsidian-workout-plugin"
   },
   {
